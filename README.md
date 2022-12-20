@@ -15,7 +15,7 @@
 
 - ❓ You can ask me questions about HTML, Css and JavaScript.  
   
-- [My Website] (https://memisemre.github.io/emrememis/)  
+- <a href="https://memisemre.github.io/emrememis/" target="_blank"> @my website</a>
 
 
 <br/>  
